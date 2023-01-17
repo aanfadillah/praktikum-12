@@ -88,3 +88,4 @@ print()
 ## Keluaran Latihan 2
 
 
+![IMG_20230117_092355](https://user-images.githubusercontent.com/115763475/212796766-47d20a4f-6bd8-4242-b932-1c801829c854.png)
