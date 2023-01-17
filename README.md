@@ -1,4 +1,4 @@
-# praktikum-12
+# praktikum-10
 
 ### Nama : Aan Fadillah Putra
 ### Nim : 312210327
