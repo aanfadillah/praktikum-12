@@ -73,3 +73,5 @@ print()
 
 ## Latihan 2
 
+![209519946-c3b1ec80-a683-48d6-a43b-0dbd2d716631](https://user-images.githubusercontent.com/115763475/212796464-00435014-df13-4022-a3bd-e64d55d1a439.png)
+
