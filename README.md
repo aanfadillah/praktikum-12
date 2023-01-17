@@ -26,7 +26,7 @@
 
 ![209518488-643ebee6-ed6b-48af-bb5f-08c9196e24d4](https://user-images.githubusercontent.com/115763475/212794849-5493d5fc-be16-4a5e-8516-815e296fd246.png)
 
-Penjelasan Latihan 1
+### Penjelasan Latihan 1
 
 •Untuk menghitung jumlah karakter, gunakan fungsi len().
 
@@ -74,4 +74,17 @@ print()
 ## Latihan 2
 
 ![209519946-c3b1ec80-a683-48d6-a43b-0dbd2d716631](https://user-images.githubusercontent.com/115763475/212796464-00435014-df13-4022-a3bd-e64d55d1a439.png)
+
+### Penjelasan Latihan 2
+
+•Untuk memasukkan variabel ke dalam string, tambahkan kurung kurawal {}untuk menempatkan variabel sebelumnya.
+
+
+  umur = 24
+  txt = "\nHello, nama saya john, dan umur saya adalah {0} tahun\n"
+
+  print(txt.format(umur))
+
+## Keluaran Latihan 2
+
 
