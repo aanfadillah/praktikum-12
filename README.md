@@ -57,3 +57,11 @@ print(txt.replace(" ", ""))
 print(txt.upper())
 #Mengubah text menjadi huruf kecil
 print(txt.lower())
+
+
+•Untuk mengganti karakter 'H'dengan karakter 'J', gunakan method replace().
+
+#Mengganti karakter H dengan karakter J
+print(txt.replace("H", "J"))
+print()
+
