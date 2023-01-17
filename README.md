@@ -68,7 +68,8 @@ print()
 
 ## Keluar Latihan 1
 
-! [Screenshot (293)] ( https://use ! [IMG_20230117_092416] ( https://user-images.githubusercontent.com/115763475/212796100-1f007e0d-723f-462f-819d-22df06ed41b0.png )
+! [Screenshot (293)] ( https://use ! [IMG_20230117_092416] ( https://user-images.githubusercontent.com/115763475/212796100-
+
 
 
 ## Latihan 2
