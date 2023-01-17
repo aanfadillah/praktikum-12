@@ -65,3 +65,4 @@ print(txt.lower())
 print(txt.replace("H", "J"))
 print()
 
+![Screenshot (293)](https://user-images.githubusercontent.com/115763475/212795882-4cf29cb3-a480-457b-a70c-94a14e2e27f4.png)
