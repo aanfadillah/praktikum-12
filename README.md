@@ -24,4 +24,7 @@
 
 ## Latihan 1
 
+![209518488-643ebee6-ed6b-48af-bb5f-08c9196e24d4](https://user-images.githubusercontent.com/115763475/212794849-5493d5fc-be16-4a5e-8516-815e296fd246.png)
+
+
 
