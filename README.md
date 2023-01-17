@@ -68,8 +68,8 @@ print()
 
 ## Keluar Latihan 1
 
-! [Screenshot (293)] ( https://use ! [IMG_20230117_092416] ( https://user-images.githubusercontent.com/115763475/212796100-
 
+![IMG_20230117_092416](https://user-images.githubusercontent.com/115763475/212797852-e1e7d075-0c23-4bc1-87c9-1d722cc21e16.png)
 
 
 ## Latihan 2
